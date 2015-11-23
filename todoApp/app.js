@@ -68,10 +68,4 @@ app.use(function(err, req, res, next) {
   });
 });
 
-/* Error says that 8080 is already in use!!
-app.listen(8080, function () {
-        console.log('Listening on port 8080...');
-    });
-*/
-
 module.exports = app;

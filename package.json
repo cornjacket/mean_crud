@@ -1,0 +1,24 @@
+{
+  "name": "mean_crud",
+  "version": "1.0.0",
+  "description": "http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornjacket/mean_crud.git"
+  },
+  "author": "David Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornjacket/mean_crud/issues"
+  },
+  "homepage": "https://github.com/cornjacket/mean_crud#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "kerberos": "0.0.17",
+    "mongoose": "^4.2.7"
+  }
+}
