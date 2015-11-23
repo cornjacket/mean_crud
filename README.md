@@ -9,3 +9,13 @@ https://mean-crud-cornjacket.c9users.io/todos
 I used nodemon so that I could refactor and test without needing to quit and restart the server.
 >npm install nodemon -g
 
+This is the database schema object
+
+{
+    "_id": "5652ae29a0db1fdd0ea6f41e",
+    "name": "David",
+    "note": "Hey Now",
+    "completed": false,
+    "__v": 0,
+    "updated_at": "2015-11-23T06:11:53.364Z"
+}
